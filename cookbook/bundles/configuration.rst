@@ -75,7 +75,7 @@ bundle configuration would look like:
         acme_social:
             twitter:
                 client_id: 123
-                client_secret: $ecret
+                client_secret: $secret
 
     .. code-block:: xml
 
